@@ -6,7 +6,7 @@ This is a livestream hosted by the team at Nirmata, the creators of Kyverno, whe
 
 ## Upcoming episodes
 
-- Episode #1: []()
+- Episode #1: [Testing policies with the Kyveno CLI]()
   - 8am PT, 11am ET, 4pm UK, 5pm Central Europe - Febuary 10th 2023
   - 
 
