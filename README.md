@@ -4,7 +4,7 @@
 
 This is a livestream hosted by the team at Nirmata, the creators of Kyverno, where we will discuss all things Kyverno and Kubernetes policy and governance!
 
-Office hours occur on the second Thursday of every month at 10am EST / 7am PST. Join the Google group kyverno-office-hours@nirmata.com to participate.
+Office hours occur on the second Thursday of every month at 10am EST / 7am PST. Join the Google group [here](https://groups.google.com/a/nirmata.com/g/kyverno-office-hours) to participate.
 
 https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
 
