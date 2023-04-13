@@ -13,7 +13,7 @@ https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
 - Episode #1: [Testing policies with the Kyveno CLI]()
   - 7am PT, 10am ET, 3pm UTC, 5pm - March 9th 2023
 - Episode #2: Kyverno 1.10 features and roadmap
-  - 7am PT / 10am ET / 3pm UTC - April 13th, 2023
+  - 7am PT / 10am ET / 2pm UTC - April 13th, 2023
 
 
 ## Add a topic
