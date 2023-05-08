@@ -14,8 +14,8 @@ https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
   - 7am PT, 10am ET, 3pm UTC, 5pm - March 9th 2023
 - Episode #2: Kyverno 1.10 features and roadmap
   - 7am PT / 10am ET / 2pm UTC - April 13th, 2023
-
-
+- Episode #3: PSP migration with Kyverno
+  - 7am PT / 10am ET / 2pm UTC - May 11th, 2023
 ## Add a topic
 
 Please [open an issue](https://github.com/nirmata/office-hours-for-kyverno/issues/new) if you have suggestions for topics, speakers, or any other ideas.
