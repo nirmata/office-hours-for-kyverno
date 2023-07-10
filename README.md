@@ -18,6 +18,8 @@ https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
   - 7am PT / 10am ET / 2pm UTC - May 11th, 2023
 - Episode #4: Kyverno Playground / Kyverno 1.10 migration and gotchas
   - 7am PT / 10am ET / 2pm UTC - June 15th, 2023
+- Episode #5: Updates since 1.10
+  - 7am PT / 10am ET / 2pm UTC - July 13th, 2023
 
 ## Add a topic
 
