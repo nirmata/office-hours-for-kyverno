@@ -10,16 +10,18 @@ https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
 
 ## Upcoming episodes
 
-- Episode #1: [Testing policies with the Kyveno CLI]()
+- Episode #1: [Testing policies with the Kyveno CLI](https://www.youtube.com/watch?v=IQ1T14v1V_c)
   - 7am PT, 10am ET, 3pm UTC, 5pm - March 9th 2023
-- Episode #2: Kyverno 1.10 features and roadmap
+- Episode #2: [Kyverno 1.10 features and roadmap](https://www.youtube.com/watch?v=9Yy9PErvdsc)
   - 7am PT / 10am ET / 2pm UTC - April 13th, 2023
-- Episode #3: PSP migration with Kyverno
+- Episode #3: [PSP migration with Kyverno](https://www.youtube.com/watch?v=YKK_qIsyPxs)
   - 7am PT / 10am ET / 2pm UTC - May 11th, 2023
-- Episode #4: Kyverno Playground / Kyverno 1.10 migration and gotchas
+- Episode #4: [Kyverno Playground / Kyverno 1.10 migration and gotchas](https://www.youtube.com/watch?v=ZVctlnokEhM)
   - 7am PT / 10am ET / 2pm UTC - June 15th, 2023
-- Episode #5: Updates since 1.10 / Contributing to Kyverno
+- Episode #5: [Updates since 1.10 / Contributing to Kyverno](https://www.youtube.com/watch?v=7ufXXCOUTvY)
   - 7am PT / 10am ET / 2pm UTC - July 13th, 2023
+- Episode #6: TBD
+  - 7am PT / 10am ET / 2pm UTC - August 10th, 2023
 
 ## Add a topic
 
