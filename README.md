@@ -20,7 +20,7 @@ https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
   - 7am PT / 10am ET / 2pm UTC - June 15th, 2023
 - Episode #5: [Updates since 1.10 / Contributing to Kyverno](https://www.youtube.com/watch?v=7ufXXCOUTvY)
   - 7am PT / 10am ET / 2pm UTC - July 13th, 2023
-- Episode #6: TBD
+- Episode #6: Demonstrate .devcontainer
   - 7am PT / 10am ET / 2pm UTC - August 10th, 2023
 
 ## Add a topic
