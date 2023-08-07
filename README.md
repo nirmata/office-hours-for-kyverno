@@ -6,7 +6,7 @@ This is an interactive session and livestream hosted by the team at Nirmata, the
 
 Office hours occur on the second Thursday of every month at 10am EST / 7am PST. Join the Google group [here](https://groups.google.com/a/nirmata.com/g/kyverno-office-hours) to receive a calendar invite with meeting details.
 
-https://nirmata.zoom.us/j/83140582027?pwd=SG1xZ2RWR3VOZmhia0xyRnVLZkpmZz09
+https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
 
 ## Upcoming episodes
 
