@@ -24,7 +24,7 @@ https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
   - 7am PT / 10am ET / 2pm UTC - August 10th, 2023
 - Episode #7: [Demonstrate AWS Notation extension](https://www.youtube.com/watch?v=lJaC_nHQslA)
   - 7am PT / 10am ET / 2pm UTC - September 7th, 2023
-- Episode #8: Generating Kubernetes Validating Admission Policies from Kyverno Policies
+- Episode #8: [Generating Kubernetes Validating Admission Policies from Kyverno Policies](https://www.youtube.com/watch?v=IZSC9OBkdFw)
   - 7am PT / 10am ET / 2pm UTC - October 12th, 2023
 
 ## Add a topic
