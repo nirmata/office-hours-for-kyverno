@@ -10,6 +10,8 @@ https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
 
 ## Upcoming episodes
 
+- Episode #10: Demonstrate Kyverno Performance testing framework
+  - 7am PT / 10am ET / 2pm UTC - January 4th, 2024
 - Episode #9: [Demonstrate Kyverno Chainsaw](https://www.youtube.com/watch?v=IrIteTTjlbU)
   - 7am PT / 10am ET / 2pm UTC - December 7th, 2023
 - Episode #8: [Generating Kubernetes Validating Admission Policies from Kyverno Policies](https://www.youtube.com/watch?v=IZSC9OBkdFw)
