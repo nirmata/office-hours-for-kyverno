@@ -9,8 +9,10 @@ Office hours occur on the second Thursday of every month at 10am EST / 7am PST. 
 https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
 
 ## Upcoming episodes
-- Episode #11: Introduction to kyverno-json and tips for writing policies
+- Episode #11:
   - 7am PT / 10am ET / 2pm UTC - February 1st, 2024
+    - Introduction to kyverno-json and tips for writing policies (45 min)
+    - Performance Regressions and How to catch them (15 min)
 - Episode #10: [Kyverno Performance enhancements and testing](https://www.youtube.com/watch?v=YMmD-k9NV48)
   - 7am PT / 10am ET / 2pm UTC - January 4th, 2024
 - Episode #9: [Demonstrate Kyverno Chainsaw](https://www.youtube.com/watch?v=IrIteTTjlbU)
