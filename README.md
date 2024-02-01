@@ -10,6 +10,7 @@ https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
 
 ## Upcoming episodes
 - Episode #11:
+  - [Recording](https://www.youtube.com/watch?v=ZsKXmunBBRw)
   - 7am PT / 10am ET / 2pm UTC - February 1st, 2024
     - Introduction to kyverno-json and tips for writing policies (45 min)
     - Performance Regressions and How to catch them (15 min)
