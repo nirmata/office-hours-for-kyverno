@@ -9,6 +9,8 @@ Office hours occur on the second Thursday of every month at 10am EST / 7am PST. 
 https://nirmata.zoom.us/j/86014437018?pwd=NHkzRTZTWG5qMmZSa0NoYUNGSFhVQT09
 
 ## Upcoming episodes
+- Episode #12: Policy Reporter UI V2 
+  - 7am PT / 10am ET / 2pm UTC - February 1st, 2024 
 - Episode #11:
   - [Recording](https://www.youtube.com/watch?v=ZsKXmunBBRw)
   - 7am PT / 10am ET / 2pm UTC - February 1st, 2024
